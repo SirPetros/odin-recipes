@@ -1,0 +1,1 @@
+As part of The Odin Project, I am building the foundations of a website for recipes.
